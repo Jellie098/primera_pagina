@@ -1938,7 +1938,7 @@ nav a {
 }
 
 nav a:hover {
-  color: #f7427f;
+  color: #f9ab72;
 }
 
 .section-gap {
@@ -2220,7 +2220,7 @@ nav a:hover {
 }
 
 .banner-content .head-btn:hover {
-  background: #222;
+  background: #442e44;
   color: #fff;
   border: 1px solid transparent;
   cursor: pointer;
@@ -2265,8 +2265,8 @@ nav a:hover {
 }
 
 .carousel-trigger .next-trigger:hover, .carousel-trigger .prev-trigger:hover {
-  background: #741e3a;
-  border: 1px solid #741e3a;
+  background:  #47813f;
+  border: 1px solid  #47813f;
 }
 
 .carousel-trigger .next-trigger:hover span, .carousel-trigger .prev-trigger:hover span {
