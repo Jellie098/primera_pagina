@@ -1965,9 +1965,9 @@ nav a:hover {
 }
 
 .p1-gradient-bg, .primary-btn, .primary-btn:after, .primary-btn2.primary-border:hover, .single-service .content .content-overlay, .content .content-overlay, .single-footer-widget .click-btn {
-  background-image: -webkit-linear-gradient(bottom, #f62e71 0%, #f9ab72 100%);
-  background-image: -o-linear-gradient(bottom, #f62e71 0%, #f9ab72 100%);
-  background-image: linear-gradient(to top, #f62e71 0%, #f9ab72 100%);
+  background-image: -webkit-linear-gradient(bottom, #da1e91 0%, #f9ab72 100%);
+  background-image: -o-linear-gradient(bottom, #da1e91 0%, #f9ab72 100%);
+  background-image: linear-gradient(to top, #da1e91 0%, #f9ab72 100%);
 }
 
 .p1-gradient-color, .about-right h1, .sigle-facilities:hover .lnr, .footer-social i:hover, .single-footer-widget .bb-btn {
@@ -2124,7 +2124,7 @@ nav a:hover {
 }
 
 .banner-area {
-  background: url(../img/suculenta.jpg) no-repeat center center/cover;
+  background: url(../img/idea2.jpg) no-repeat center center/cover;
 }
 
 @media (max-width: 767px) {
@@ -2134,10 +2134,10 @@ nav a:hover {
 }
 
 .banner-area .overlay-bg {
-  opacity: .8;
-  background-image: -webkit-linear-gradient(bottom, #9fd698 0%, #f9ab72 100%);
-  background-image: -o-linear-gradient(bottom,  #9fd698 0%, #f9ab72 100%);
-  background-image: linear-gradient(to top,  #9fd698 0%, #f9ab72 100%);
+  opacity: .7;
+  background-image: -webkit-linear-gradient(bottom, #2e6613 0%, #f9ab72 95%);
+  background-image: -o-linear-gradient(bottom,   #2e6613  0%, #f9ab72 95%);
+  background-image: linear-gradient(to top,    #2e6613 0%, #f9ab72 95%);
 }
 
 .banner-content {
@@ -2355,9 +2355,9 @@ nav a:hover {
 }
 
 .single-service .content-title {
-  font-size: 18px;
-  color: #fff;
-  font-weight: 500;
+  font-size: 20px;
+  color:rgb(60, 44, 75);
+  font-weight: 550;
 }
 
 .single-service .content:hover .content-details {
@@ -2380,7 +2380,7 @@ nav a:hover {
 }
 
 .about-right {
-  padding-right: 20%;
+  padding-right: 5%;
   padding-left: 5%;
 }
 
